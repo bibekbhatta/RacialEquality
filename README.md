@@ -2,7 +2,7 @@
 
 Data credit: GABRIEL PREDA  https://www.kaggle.com/datasets/gpreda/bbc-news
 
-I provide herewith a list of titles/descriptions of BBC containing the following words: 'white', 'black', and 'asian' in teh file **"BBC_titles_refined.csv"**
+I provide herewith a list of titles/descriptions of BBC containing the following words: 'white', 'black', and 'asian' in the file **BBC_titles_refined.csv** which can be downloaded.
 
 The data is for roughly one year (i.e.Feb 2022 to March 2023)
 
