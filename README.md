@@ -1,6 +1,6 @@
 # RacialEquality
 
-Data credit: GABRIEL PREDA  https://www.kaggle.com/datasets/gpreda/bbc-news
+Data credit: GABRIEL PREDA  https://www.kaggle.com/datasets/gpreda/bbc-news downloaded by me on 10/Apr/2023.
 
 I provide herewith a list of titles/descriptions of BBC containing the following words: 'white', 'black', and 'asian' in the file **BBC_titles_refined.csv** which can be downloaded.
 
