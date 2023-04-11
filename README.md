@@ -11,7 +11,7 @@ The list of BBC titles is in file **BBC_titles_refined.csv** above which can be 
 
 The data is for roughly one year (i.e.Feb 2022 to March 2023)
 
-The following words are **excluded** but I am yet to refine the code further):
+The following words are **excluded** but I am yet to refine the code further):  
 All Blacks (as in sports team)  
 asian nation   
 asian state  
